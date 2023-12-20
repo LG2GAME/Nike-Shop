@@ -1,1 +1,1 @@
-* SIMPLE NIKE SHOP *
+<strong>SIMPLE NIKE SHOP
