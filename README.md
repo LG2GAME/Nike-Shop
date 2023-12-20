@@ -4,4 +4,4 @@
 
 # Check out the website: 
 * https://lg2game.github.io/Nike-Shop/
-* https://lg2game.github.io/Nike-Shop/templates/shop.html/
+* https://lg2game.github.io/Nike-Shop/templates/shop.html
